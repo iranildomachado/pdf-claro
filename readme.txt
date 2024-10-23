@@ -8,4 +8,4 @@
 6-Coloque os pdfs na pasta "pdf".
 7-Execute o script.
 
-## Se tudos os requesitos e passos foram seguidos corretamente será gerado um arquivo "report_claro.xlsx" dentro da pasta raíz "PDF_CLARO".
+## Se todos os requesitos e passos foram seguidos corretamente será gerado um arquivo "report_claro.xlsx" dentro da pasta raíz "PDF_CLARO".
